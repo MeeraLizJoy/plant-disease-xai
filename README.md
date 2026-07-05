@@ -130,8 +130,8 @@ If you use this code or the Explainability Score metric, please cite:
 @inproceedings{joy2025interpretable,
   title     = {Interpretable Deep Learning for Plant Disease Detection:
                A Comparative Study with Explainability Metrics},
-  author    = {Joy, Meera Liz and Jain, Vipin and Manisha, V. and
-               Sinha, Piyush Kumar and Gupta, Neetesh Kumar},
+  author    = {Meera Liz Joy, Vipin Jain, Manisha V,
+               Piyush Kumar Sinha, Neetesh Kumar Gupta},
   booktitle = {2025 International Conference on Engineering Innovations
                and Technologies (ICoEIT)},
   year      = {2025},
